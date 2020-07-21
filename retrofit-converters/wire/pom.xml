@@ -8,9 +8,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.squareup.retrofit2</groupId>
+    <groupId>com.opngo</groupId>
     <artifactId>retrofit-converters</artifactId>
-    <version>2.6.0</version>
+    <version>2.6.0-OPNGO</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
